@@ -1,0 +1,7 @@
+name 'stig_configs'
+maintainer 'Daniel Rohr'
+maintainer_email 'drohr@redhat.com'
+license 'all_rights'
+description 'Installs/Configures stig_configs'
+long_description 'Installs/Configures stig_configs'
+version '0.1.3'

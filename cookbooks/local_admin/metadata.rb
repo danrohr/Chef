@@ -1,0 +1,7 @@
+name 'local_admin'
+maintainer 'Dan Rohr'
+maintainer_email 'drohr@redhat.com'
+license 'all_rights'
+description 'Installs/Configures a local admin account'
+long_description 'Installs/Configures local administrator account and password'
+version '0.1.1'

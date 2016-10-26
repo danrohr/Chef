@@ -1,0 +1,7 @@
+name 'rhev_hypervisor'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures rhev_hypervisor'
+long_description 'Installs/Configures rhev_hypervisor'
+version '0.1.0'

@@ -1,0 +1,7 @@
+name 'sysvinit_chef'
+maintainer 'Daniel Rohr'
+maintainer_email 'drohr@redhat.com'
+license 'all_rights'
+description 'Installs/Configures sysvinit_chef'
+long_description 'Installs/Configures sysvinit_chef'
+version '0.1.0'

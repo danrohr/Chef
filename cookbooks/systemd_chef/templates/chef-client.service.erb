@@ -1,0 +1,13 @@
+[Unit]
+Description=Chef Client daemon
+After=network.target auditd.service
+
+[Service]
+EnvironmentFile=/etc/chef/client.rb
+ExecStart=/bin/chef-client -i 1800
+ExecReload=/bin/kill -HUP $MAINPID
+SuccessExitStatus=3
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

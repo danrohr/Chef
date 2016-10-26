@@ -1,0 +1,7 @@
+name 'systemd_chef'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures systemd_chef'
+long_description 'Installs/Configures systemd_chef'
+version '0.1.0'
